@@ -1,4 +1,5 @@
-﻿#include "pch.h"
+﻿/*Автор: Фролов Дмитрий*/
+#include "pch.h"
 #include <iostream>
 #include <time.h>
 #include <math.h>
