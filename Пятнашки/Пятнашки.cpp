@@ -123,7 +123,7 @@ void GamePlay()
 		cin >> c; cin >> d;
 
 		
-		if (a < 0 || a>4 || b < 0 || b>4 || c < 0 || c>4 || d < 0 || d>4)
+		if (a < 0 || a>3 || b < 0 || b>3 || c < 0 || c>3 || d < 0 || d>3)
 		{
 			goto enter;
 		}
